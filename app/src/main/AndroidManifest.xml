@@ -19,6 +19,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".BasicInfoEditActivity" />
+        <activity android:name=".EducationEditActivity"/>
+        <activity android:name=".ExperienceEditActivity"/>
+        <activity android:name=".ProjectEditActivity"/>
     </application>
 
 </manifest>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">迷你领英</string>
+    <string name="action_settings">设置</string>
+    <string name="education">教育经历</string>
+    <string name="Experience">个人经历</string>
+    <string name="Projects">个人项目</string>
+</resources>
